@@ -1,34 +1,34 @@
 {
   "comments": [
     {
-	    "id": 1,
+      "id": 1,
       "author": "Ram",
       "text": "JSON is popular"
     },
     {
-	    "id": 2,
+      "id": 2,
       "author": "Raj",
       "text": "JSON can be used to transfer data"
     },
     {
-	    "id": 3,
+      "id": 3,
       "author": "Vinay",
       "text": "JSON works well with JavaScript"
     }
   ],
   "employees": [
     {
-	    "id": 1,
+      "id": 1,
       "name": "Ram",
       "location": "Bangalore"
     },
     {
-	    "id": 2,
+      "id": 2,
       "name": "Raj",
       "location": "Pune"
     },
     {
-	    "id": 3,
+      "id": 3,
       "name": "Vinay",
       "location": "Kochi"
     }
